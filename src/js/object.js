@@ -1,0 +1,6 @@
+if (new Date().getHours() < 18) {
+  document.getElementById("demo").innerHTML = "Good day!";
+}
+function name(params) {}
+
+let i = 4;
